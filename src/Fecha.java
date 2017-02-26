@@ -24,7 +24,7 @@ public class Fecha {
 		if (dia > diasMes()) return false;
 		else return true;
 		}
-
+ 
 
 public static void main(String[] args)throws IOException {
 int dia, mes, anyo;
